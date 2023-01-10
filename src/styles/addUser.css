@@ -1,0 +1,33 @@
+.addUser{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    width: 1000px;
+    height: fit-content;
+    background-color: darkgrey;
+    margin-left: 290px;
+}
+
+.addUser h1{
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.addUser input{
+    margin: 10px 0px;
+    width: 850px;
+    height: 35px;
+    background-color: azure;
+    font-size: medium;
+    border: 2px solid chocolate;
+}
+
+.btnAddUser{
+    margin: 10px 0px;
+    background-color: chocolate;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    font-size: medium;   
+}

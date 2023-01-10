@@ -1,0 +1,36 @@
+.userLogin{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form{
+    width: 550px;
+    height: 350px;
+    border: 4px chocolate solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin: 170px auto;
+    text-align: center;
+}
+
+.form h1{
+    color: forestgreen;
+}
+
+.form_input input{
+    width: 250px;
+    height: 40px;
+    margin: 12px 0px;
+    border: none;
+    border-bottom: 1px black solid;
+    background-color: aliceblue;
+    font-size: large;
+}
+
+.form_input button{
+    background-color: forestgreen;
+    color: white;
+    border-radius: 7px;
+    width: 80px;
+    height: 30px;
+    margin-top: 24px;
+    font-size: medium;
+}

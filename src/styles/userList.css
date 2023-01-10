@@ -1,0 +1,41 @@
+.userlist{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    }
+    
+    .userlist h1{
+        text-align: center;
+    margin-top: 0px;
+    }
+    
+    .user{
+        /* width: 900px;
+        height: 300px; */
+        width: 40%;
+        height: auto;
+        margin: 20px 0px;
+        background-color: beige;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px;
+    }
+    .userSection{
+        /* width: 50%;
+        height: 50%; */
+        /* background-color: aqua; */
+        margin-left: 600px;
+    }
+    
+    .btn{
+        border: none;
+        height: 30px;
+        width: 100px;
+        border-radius: 10px;
+        margin: 20px 0px;
+        background-color: red;
+        color: white;
+    }
